@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annabel-createsome
+- 👋 Hi, I’m Annabel
 - 👀 I’m interested in UX design and flinta* in stem fields
 - 🌱 I’m currently learning how to make buttons blue
 - 💞️ I’m looking to collaborate via www.createsome.de
